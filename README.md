@@ -24,11 +24,7 @@
     <strong><code>.Net Developer & Data Science Enthusiast</code></strong>
   </p>
   <p dir="auto">
-    Software developer with over 3 years of expertise, developed WPF C# .NET
-    applications for machine vision. Actively advancing proficiency in ASP.NET
-    technologies for web application projects. Recent Data Science bootcamp
-    graduate with a goal to incorporate machine learning and AI technologies
-    into software development.
+    Hi, as a .NET developer specializing in ASP.NET I  will be happy to share the different projects I worked and still working on. I am particularly interested in Machine Learning and AI. I welcome your feedback, comments, or suggestions, and I'm always open to an engaging conversation.
   </p>
   <hr />
   <h3 dir="auto">
