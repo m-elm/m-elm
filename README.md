@@ -24,7 +24,7 @@
     <strong><code>.Net Developer & Data Science Enthusiast</code></strong>
   </p>
   <p dir="auto">
-    Software developer with over 5 years of expertise, developed WPF C# .NET
+    Software developer with over 3 years of expertise, developed WPF C# .NET
     applications for machine vision. Actively advancing proficiency in ASP.NET
     technologies for web application projects. Recent Data Science bootcamp
     graduate with a goal to incorporate machine learning and AI technologies
